@@ -1,0 +1,5 @@
+cd ~/
+git clone https://github.com/MycroftAI/mycroft-core.git
+cd mycroft-core
+bash dev_setup.sh
+./start-mycroft.sh all
