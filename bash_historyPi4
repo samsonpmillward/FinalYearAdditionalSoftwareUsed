@@ -1,0 +1,773 @@
+cd |/
+~/
+cd ~/
+git clone https://github.com/MycroftAI/mycroft-core.git
+cd mycroft-core/
+bash dev_setup.sh
+bash dev_setup.sh debug
+pip install --upgrade pip
+bash dev_setup.sh debug
+./start-mycroft.sh debug
+alsamixer
+./start-mycroft.sh debug
+ls
+start-mycroft.sh audiotest
+./start-mycroft.sh audiotest
+cd ..
+nano ./asoundrc
+cd mycroft-core/
+./start-mycroft.sh audiotest
+cd ..
+nano .asoundrc 
+cd mycroft-core/
+./start-mycroft.sh audiotest
+cd ..
+nano .asoundrc 
+cd mycroft-core/
+./start-mycroft.sh audiotest
+nano ~/etc/.asoundrc
+cd ..
+cd etc
+ls
+cd ..
+cd etc/
+ls
+nano .asoundrc
+ls
+sudo apt update
+sudo apt upgrade
+sudo apt autoremove
+aplay -l
+aplay -L
+aplay -l
+nano ~/.asoundrc
+cd mycroft-core/
+sudo reboot
+alsamixer
+aplay -l
+cd ..
+cd etc
+ls
+cd ..
+cd home/
+cd pi/
+ls
+rm asoundrc 
+ls
+sudo reboot
+cd mycroft-core/`
+cd mycroft-core/
+./start-mycroft.sh debug
+cd mycroft-core/
+./start-mycroft.sh debug
+cd mycroft-core/
+ls
+touch asoundrc
+rm asoundrc 
+cd ..
+ls
+cd mycroft-core/
+touch .soundrc
+ls
+nano .asoundrc
+sudo reboot
+cd mycroft-core/
+./start-mycroft.sh debug
+./start-mycroft.sh audiotest
+pyaudio
+sudo apt-get install pyaudio
+pyaudio.PyAudio().open(format=pyaudio.paInt16,
+output
+$output
+aslamixer
+alsamixer
+cd mycroft-core/
+LS
+ls
+cd scripts/
+ls
+cd ..
+ls --help
+ls-a
+ls -a
+ls .soundrc 
+nano .soundrc 
+rm .soundrc 
+ls
+ls -a
+cd test/
+;s
+ls
+cd ..
+cd scripts/
+ls
+ls -a
+cd ..
+ls
+ls -a
+./start-mycroft.sh audiotest -l
+nano ~/.mycroft/mycroft.conf 
+./start-mycroft.sh audiotest
+nano ~/.mycroft/mycroft.conf 
+./start-mycroft.sh audiotest
+nano ~/.mycroft/mycroft.conf 
+./start-mycroft.sh audiotest
+nano ~/.asoundrc
+sudo reboot
+~/mycroft-core/start-mycroft.sh audiotest -l
+~/mycroft-core/start-mycroft.sh audiotest
+sudo apt-get install pulseaudio
+sudo reboot
+~/mycroft-core/start-mycroft.sh audiotest
+~/mycroft-core/start-mycroft.sh debug
+~/mycroft-core/start-mycroft.sh all
+cd ~/.config/
+ls
+cd ..
+sudo nano /etc/init.d/start_mycroft
+sudo nano /etc/rc.local
+sudo reboot
+~/mycroft-core/start-mycroft.sh all
+~/mycroft-core/start-mycroft.sh cli
+sudo nano /etc/rc.local
+sudo reboot
+sudo nano /etc/rc.local
+sudo reboot
+sudo nano /etc/rc.local
+sudo reboot
+pwd
+sudo nano /etc/rc.local
+sudo reboot
+sudo nano /etc/rc.local
+sudo nano /home/pi/.bashrc
+sudo reboot
+ip address
+sudo nano /home/pi/.bashrc
+sudo reboot
+sh /mycroft-core./start-mycroft.sh all
+sh /mycroft-core/start-mycroft.sh 
+~/mycroft-core/start-mycroft.sh all
+sudo shutdown now
+~/mycroft-core/start-mycroft.sh
+sudo shutdown now
+~/mycroft-core/start-mycroft.sh all
+sudo shutdown now
+sudo nano /etc/rc.local
+sudo reboot
+sudo nano /home/pi/.bashrc
+sudo reboot
+sudo nano /home/pi/.bashrc
+sh "~/home/pi/mycroft-core/start-mycroft.sh all"
+sh "~./home/pi/mycroft-core/start-mycroft.sh all"
+sh "~../home/pi/mycroft-core/start-mycroft.sh all"
+sh "/home/pi/mycroft-core/start-mycroft.sh all"
+sh "~/mycroft-core/start-mycroft.sh all"
+"~/mycroft-core/start-mycroft.sh all"
+~/mycroft-core/start-mycroft.sh [B
+"/mycroft-core/start-mycroft.sh all"
+"~/mycroft-core/start-mycroft.sh all"
+sh "~/mycroft-core/start-mycroft.sh all"
+sh "~/home/pi/mycroft-core/start-mycroft.sh all"
+~/mycroft-core/start-mycroft.sh all
+~/mycroft-core/stop-mycroft.sh 
+sh ~/mycroft-core/start-mycroft.sh all
+bash ~/mycroft-core/start-mycroft.sh all
+sudo nano /home/pi/.bashrc
+sudo reboot now
+sudo nano /home/pi/.bashrc
+sudo reboot now
+sudo nano /home/pi/.bashrc
+sudo reboot now
+pwd
+bash /mycroft-core/start-mycroft.sh all
+ls
+cd mycroft-core/
+ls
+cd ..
+bash ./mycroft-core/start-mycroft.sh all
+sudo nano /home/pi/.bashrc
+sudo reboot now
+sudo nano /home/pi/.bashrc
+sudo reboot now
+sudo shutdown
+sudo shutdown now
+sudo shutdown
+sudo shutdown now
+sudo apt update
+sudo apt upgrade
+msm install fallback-recommendations-skill
+mycroft-msm install https://github.com/builderjer/moviemaster.git
+sudo shutdown now
+msm install https://github.com/zelmon64/skill-finished-booting
+mycroft-core$ source .venv/bin/activate
+source .venv/bin/activate
+cd mycroft-core
+source .venv/bin/activate
+msm update
+source .venv/bin/activate
+msm install https://github.com/zelmon64/skill-finished-booting
+sudo shutdown now
+bash ./mycroft-core/start-mycroft.sh all
+bash ./mycroft-core/start-mycroft.sh cli
+sudo reboot
+bash ./mycroft-core/start-mycroft.sh cli
+sudo shutdown now
+source .venv/bin/activate
+mycroft-core$ source .venv/bin/activate
+cd mycroft-core
+source .venv/bin/activate
+msm install https://github.com/krisgesling/tronald-dump-skill
+sudo shutdown now
+ls
+sudo raspi-config
+sudo apt upgrade
+sudo apt update
+sudo apt upgrade
+sudo shutdown noa
+sudo shutdown now
+cd etc
+cd /etc
+nano rc.local
+cd /etc
+nano rc.local
+sudo shutdown now
+sudo shutdown now 
+ip address 
+sudo shutdown now 
+sudo shutdown now
+ls
+docker
+sudo apt update
+sudo apt upgrade
+$ sudo apt install raspberrypi-kernel raspberrypi-kernel-headers
+sudo apt install raspberrypi-kernel raspberrypi-kernel-headers
+$ curl -sSL https://get.docker.com | sh
+curl -sSL https://get.docker.com | sh
+docker
+ls
+cd ..
+ls
+cd pi
+ls
+mkdir Docker
+ls
+docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+ls
+cd Docker
+ls
+pwd
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v /home/pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+docker start 306ef5b26f4906268592955a642167acc2efce5913add0f8a42d7aaf07eaa766
+sudo docker start 306ef5b26f4906268592955a642167acc2efce5913add0f8a42d7aaf07eaa766
+ip address
+docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+sudo docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' container_name_or_id
+sudo docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' openvpn-as
+sudo shutdown now
+docker run -dns 8.8.8.8 base ping google.com
+docker run base ping google.com
+sudo docker run base ping google.com
+cat /etc/resolv.conf 
+docker ping google.com
+sudo service docker restart
+sudo docker run base ping google.com
+cat /etc/resolv.conf 
+ip addre
+docker ls
+docker container ls 
+sudo docker container ls
+ls
+vnc
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+cd mycroft-core/ 
+ls
+sudo shutdown now 
+sudo usermod -aG docker pi
+sudo reboot
+docker version
+docker run -d -p 80:80 nginx
+docker start bc36afab553034c217af0762bc6c2741a5f5bff72e2c560691ee1d96dba01816
+docker stop nginx
+docker stop bc36afab553034c217af0762bc6c2741a5f5bff72e2c560691ee1d96dba01816
+docker rm bc36afab553034c217af0762bc6c2741a5f5bff72e2c560691ee1d96dba01816
+docker ls
+docker container ls
+docker restart openvpn-as
+ls
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+docker create   --name=heimdall   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -p 80:80   -p 443:443   -v /home/pi/heimdall/Docker:/config   --restart unless-stopped   linuxserver/heimdall
+docker start 4623b2ceae0ef456c969bef0baaeda9dd3174b46a8cd4d5c367e10cf5eb7d04a
+docker inspect 4623b2ceae0ef456c969bef0baaeda9dd3174b46a8cd4d5c367e10cf5eb7d04a
+docker stop openvpn-as
+docker rm openvpn-as 
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v /home/pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+docker start 23838756eadd4f4bad6d7748c114744ad3e2766515bf2ca486eabb4b0e6dfa19
+docker stop openvpn-as
+docker rm openvpn-as 
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=eth0 `#optional`   -p 983:983   -p 9443:9443   -p 1194:1194/udp   -v /home/pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+docker start openvpn-as
+sudo apt update
+sudo apt upgrade
+docker container ls
+ifconfig
+docker stop openvpn-as
+docker rm openvpn-as 
+sudo docker create   --name=openvpn-as   --cap-add=NET_ADMIN   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -e INTERFACE=wlan0   -p 943:943   -p 9443:9443   -p 1194:1194/udp   -v /home/pi/Docker:/config   --restart unless-stopped   linuxserver/openvpn-as
+docker start 9dcce57154cb5df8019e005919dc3f7aeea07cb4d83b7d24d5bb3021661e59fc
+docker container ls
+docker logs -f openvpn-as
+wget https://github.com/mobilejazz/docker-ipsec-vpn-server/archive/master.zip
+ls
+cd Do
+cd Docker/
+ls
+cd ..
+mv master.zip 
+mv master.zip /Docker/
+mv master.zip /Docker
+sudo mv master.zip /Docker
+ls
+cd Docker/
+ls
+wget https://github.com/mobilejazz/docker-ipsec-vpn-server/archive/master.zip
+ls
+unzip master.zip 
+ls
+cd docker-ipsec-vpn-server-master/
+./start.sh 
+./adduser.sh pi
+docker container ls
+docker stop openvpn-as
+docker rm openvpn-as 
+docker container ls
+./adduser.sh pi
+./status.sh
+ls
+docker stop ipsec-vpn-server
+docker rm ipsec-vpn-server 
+docker container ls
+cd ..
+ls
+rm master.zip 
+l
+ls
+rm docker-ipsec-vpn-server-master/
+rm -rf docker-ipsec-vpn-server-master/
+ls
+docker pull hwdsl2/ipsec-vpn-server
+dpkg --print-architecture 
+ls
+docker container ls
+apt-get update && apt-get dist-upgrade
+sudo apt-get update && apt-get dist-upgrade
+wget https://git.io/vpnsetup -O vpnsetup.sh && sudo sh vpnsetup.sh
+docker create   --name=pydio   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -p 443:443   -v /home/pi/Docker:/config   -v home/pi/Documents:/data   --restart unless-stopped   linuxserver/pydio
+docker create   --name=pydio   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -p 443:443   -v /home/pi/Docker:/config   -v /home/pi/Documents:/data   --restart unless-stopped   linuxserver/pydio
+docker start 63bc9826cbcb65014f9822041b79bf16150d51cf2f8498aff985c6b381ab36df
+docker container ls
+docker create   --name=pydio   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -p 943:943   -v /home/pi/Docker:/config   -v /home/pi/Documents:/data   --restart unless-stopped   linuxserver/pydio
+docker rm pydio
+docker create   --name=pydio   -e PUID=1000   -e PGID=1000   -e TZ=Europe/London   -p 943:943   -v /home/pi/Docker:/config   -v /home/pi/Documents:/data   --restart unless-stopped   linuxserver/pydio
+docker start f431f2270b3c17cc52c41310b8662fdd03f810d70ab0cf9869228e19081dc750
+docker stop pydio
+docker rm pydio
+docker run -d -p 8080:8080 pydio/cells
+ls
+docker container ls
+ls
+docker run -d -p 9090:9090 pydio/cells
+docker start cd8e0af82cbb87817aeca03ee14d60b5c599294553b3b76f630fd030de5b5199
+ls
+less vpnsetup.sh 
+netstat
+netstat | find "8181"
+netstat -na | find "8181"
+netstat -na | find '8181'
+vnc
+sudo raspi-config
+sudo apt update
+sudo apt upgrade
+sudo apt install mysql-server
+sudo apt-get install mysql-server 
+apt-cache search mysql-server
+sudo apt-get install mysql-server 
+sudo apt-get install default-mysql-server
+mysql 
+0sudo mysql_secure_installation
+sudo mysql_secure_installation
+sudo systemctl enable mysqld
+sudo apt install mysql-server
+sudo apt install mariadb-server-10.0
+sudo apt-get uninstall default-mysql-server
+sudo apt-get remove default-mysql-server
+sudo apt install mariadb-server-10.0
+sudo remove mysql_secure_installation
+sudo systemctl stop apache2
+sudo systemctl disable apache2
+mysql -u root -p
+sudo systemctl stop apache2
+mysql -u root -p[B
+sudo shutdown now
+ls
+mysql -u root -p
+sudo apt-get install mysql-server
+sudo apt-get install mariadb-server-10.0
+/etc/init.d/mysql stop
+Westfield
+/etc/init.d/mysql stop
+sudo su
+ipsec status
+sudo ipsec status
+sudo ipsec verify
+sudo reboot
+bash ./mycroft-core/start-mycroft.sh cli
+cd mycroft-core/ 
+ls
+cd test/ 
+ls
+cd 
+cd ..
+./stop-mycroft.sh
+cd mycroft-core/ 
+ls
+cd pi 
+cd mycroft-core/ 
+ls
+./stop-mycroft.sh
+./start-mycroft.sh all
+sudo shutdown now 
+ls
+./start-mycroft.sh all
+cd mycroft-core/
+./start-mycroft.sh all
+./start-mycroft.sh debug
+ip address
+ip a
+ls
+sudo ipsec status
+sudo su
+pwd
+cd heimdall/
+sudo ipsec status
+sudo ipsec verify
+ls
+cd ..
+ls
+rm -rf /usr/local/sbin/ipsec /usr/local/libexec/ipsecrm -rf /usr/local/sbin/ipsec /usr/local/libexec/ipsec
+sudo rm -rf /usr/local/sbin/ipsec /usr/local/libexec/ipsec
+sudo rm -f /etc/init/ipsec.conf /lib/systemd/system/ipsec.service       /etc/init.d/ipsec /usr/lib/systemd/system/ipsec.service
+apt-get purge xl2tpd
+sudo 
+apt-get purge xl2tpd
+sudo apt-get purge xl2tpd
+wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+sudo wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+sudo su
+ls
+cd ~/root/
+cd ..
+ls
+cd root
+sudo cd root
+sudo su
+cd ./rrot
+cd ./root
+cd ../root
+cd .
+cd ..
+cd root/
+ls
+cd root
+sudo su
+pip install --upgrade pip
+sudo pip install --upgrade pip
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install apache2
+systemctl status apache2.service
+cd ..
+cd etc/
+cd ..
+cd etc
+ls
+cd apache2/
+ls
+nano ports.conf
+n
+sudo nano ports.conf
+d sites-enabled/
+cd sites-enabled/
+sudo nano 000-default.conf 
+sudo service apache2 restart
+cd home
+cd ..
+cd home
+cd pi
+ls
+sudo apt-get install php7.3 php7.3-gd sqlite php7.3-sqlite3 php7.3-curl php7.3-zip php7.3-xml php7.3-mbstring
+sudo service apache2 restart
+cd /var/www/html
+curl https://download.nextcloud.com/server/releases/nextcloud-16.0.3.tar.bz2 | sudo tar -jxv
+sudo mkdir -p /var/www/html/nextcloud/data
+sudo chown -R www-data:www-data /var/www/html/nextcloud/
+sudo chmod 750 /var/www/html/nextcloud/data
+sudo nano /etc/php/7.3/apache2/php.ini
+sudo service apache2 restart
+sudo nano /etc/apache2/apache2.conf
+sudo service apache2 restart
+sudo pacman -S certbot certbot-apache 
+ls
+cd mycroft-core/
+ls
+./start-mycroft.sh debug
+sudo reboot
+sudo apt update
+sudo apt upgrade
+nano /etc/php/7.2/apache2/php.ini
+cd ..
+ls
+cd etc
+ls
+cd php/
+ls
+cd 7.3
+ls
+cd apache2/
+ls
+nano php.ini
+sudo nano php.ini 
+sudo service apache2 restart
+a2enmod ssl
+sudo a2enmod ssl
+sudo a2ensite default-ssl
+sudo   systemctl restart apache2
+sudo service apache2 restart
+systemctl status apache2.service
+sudo systemctl stop nginx
+systemctl status apache2.service
+sudo service apache2 restart
+systemctl status apache2.service
+netstat -anp | grep 82
+netstat -anp | grep 81
+netstat -anp | grep 80
+sudo netstat -anp | grep 44
+sudo netstat -anp | grep 81
+sudo service apache2 stop
+docker container ls
+docker stop heimdall
+ls
+cd Docker
+ls
+mkdir ProxyManager
+cd ProxyManager/
+git clone https://github.com/jc21/nginx-proxy-manager
+ls
+cd nginx-proxy-manager/
+ls
+sudo apt remove nextcloud
+sudo apt uninstall nextcloud
+snap
+sudo snap remove nextcloud
+cd ..
+cd .
+cd ..
+ls
+cd ..
+ls
+cd Documents
+ls
+cd ..
+cd var/
+ls
+cd www
+ls
+cd html
+ls
+nano index.html 
+rm -r nextcloud/
+sudo rm -rf nextcloud
+ls
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+ls
+sudo chmod +x /usr/local/bin/docker-compose
+ls
+$ docker-compose --version
+docker-compose --version
+sudo chmod +x /usr/local/bin/docker-compose
+docker-compose --version
+sudo mv /usr/local/bin/docker-compose /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
+docker-compose --version
+ls
+cd ..
+cd usr
+ls
+cd bin/
+ls
+docker-compose --version
+sudo rm /usr/local/bin/docker-compose
+sudo rm /usr/bin/docker-compose
+sudo pip uninstall docker-compose
+sudo pip install docker-compose
+sudo apt update
+sudo apt upgrade
+sudo reboot
+sudo shutdown now
+speaker-test -c2 -t wav
+sudo apt update
+sudo apt upgrade
+cd mycroft-core/
+./start-mycroft.sh debug
+rm -R ~/virtualenv/mycroft
+cd ..
+ls
+cd ..
+rm -R ~/virtualenv/mycroft
+ls
+cd ..
+rm -R ~/virtualenv/mycroft
+fit remove mycroft-a
+git remove myc
+cd home/
+cd pi/
+ls
+cd mycroft-core/
+ls
+cd test
+ls
+./util.py
+sudo ./util.py
+cd ..
+./stop-mycroft.sh 
+./start-mycroft.sh 
+./start-mycroft.sh unittest
+./start-mycroft.sh cli
+./start-mycroft.sh audiotest
+pulseaudio
+pacmd
+pavucontrol
+sudo apt install pulseaudio
+./start-mycroft.sh debug
+./start-mycroft.sh audiotes
+./start-mycroft.sh audiotest
+~/.asoundrc
+pip install --upgrade pip
+sudo pip install --upgrade pip
+./start-mycroft.sh audiotest
+cd mycroft-core/ 
+./start-mycroft.sh audiotest
+sudo apt update 
+sudo apt upgrade
+./start-mycroft.sh cli
+sudo apt autoremove
+sudo apt update
+pip install --upgrade pip
+sudo pip install --upgrade pip
+sudo upgrade
+apt upgrade
+sudo apt upggrade
+sudo apt upgrade
+sudo shutdown
+sudo shutdown now
+sudo apt update
+sudo apt upgrade
+sudo apt full-upgrade
+sudo apt autoremove
+grep avx /proc/cpuinfo
+cd mycroft-core/
+ls
+devlink 
+.dev_setup.sh
+./dev_setup.sh 
+pip install --upgrade pip
+sudo pip install --upgrade pip
+git stash
+git pull
+./update_dev.sh
+l
+ls
+./start_mycroft.sh debug
+./start-mycroft.sh all
+./start-mycroft.sh debug
+cd mycroft-core/
+./start-mycroft.sh debug
+./start-mycroft.sh audiotest
+~/.asoundrc
+pulseaudio
+alsaaudio
+alsamixer
+./start_mycroft.sh debug
+./start-mycroft.sh audiotest
+pavucontrol
+speaker-test -c2 -t wav
+amixer cset numid=3 1
+speaker-test -c2 -t wav
+raspi-config
+sudo raspi-config 
+speaker-test -c2 -t wav
+sudo shutdown now
+hello
+nextcloud
+ip
+ip address
+speaker-test -c2 -t wav
+sudo raspi-config 
+speaker-test -c2 -t wav
+sudo shutdown now
+raspi-config
+sudo raspi-config
+bluetoothctl -a
+scan on
+bluetoothctl scan on
+bluetoothctl
+mkdir -p ~/scripts
+nano ~/scripts/autopair
+chmod +x ~/scripts/autopair
+sudo nano /boot/config.txt
+sudo apt-get update && sudo apt-get install pulseaudio -y
+nano ~/.bashrc
+mkdir -p ~/python 
+nano ~/python/on.py
+chmod +x ~/python/on.py
+nano ~/.bashrc
+sudo reboot
+cd mycroft-core/
+./start-mycroft.sh audio-test
+./start-mycroft.sh audio
+./start-mycroft.sh debug
+./start-mycroft.sh audio
+./start-mycroft.sh audiotest
+cd mycroft-core/
+./start-mycroft.sh audiotest
+speaker-test -c2 -t wav
+sudo raspi-config
+speaker-test -c2 -t wav
+cd mycroft-core/
+ls
+./start-mycroft.sh debug
+sudo nano /boot/config.txt
+./start-mycroft.sh debug
+alsamixer
+./start-mycroft.sh debug
+speaker-test -c2 -t wav
+snap install spotify
+sudo apt install snapd
+sudo reboot
+sudo apt-get update && sudo apt-get install spotify-client
+curl -sS https://download.spotify.com/debian/pubkey.gpg | sudo apt-key add - 
+echo "deb http://repository.spotify.com stable non-free" | sudo tee /etc/apt/sources.list.d/spotify.list
+sudo apt-get update && sudo apt-get install spotify-client
+sudo nano /boot/config.txt
+pulseaudio
+alsamixer
+sudo raspi-config
+nano ~/scripts/autopair 
+sudo nano /boot/config.txt 
+nano ~/.bash.rc
+nano ~/.bashrc
+speaker-test -c2 -t wav
+alsamixer
+speaker-test -c2 -t wav
+aplay -D hw:0,0 -vv /usr/share/sounds/alsa/test.wav
+curl -sS get.pimoroni.com/phatbeat  | bash
