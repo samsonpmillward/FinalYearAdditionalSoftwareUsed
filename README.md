@@ -8,4 +8,5 @@ docker
 
 
 Steps
-1. curl -sS get.pimoroni.com/phatbeat  | bash
+1.  sudo snap install nextcloud
+
