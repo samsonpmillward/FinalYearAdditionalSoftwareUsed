@@ -2,7 +2,7 @@
 Installed
 Heimdall
 Mycroft
-Openvpn
+pivpn running wireguard
 nextcloud
 docker
 
